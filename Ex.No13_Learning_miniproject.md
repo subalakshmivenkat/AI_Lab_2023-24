@@ -99,11 +99,16 @@ app.launch(share=True)
 
 ### Output:
 
-![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/cf2bf2cf-213e-46da-8c3c-e2b1b4b82eb6)
+![Screenshot 2024-11-11 160646](https://github.com/user-attachments/assets/b682f907-ae8d-462e-92de-0681ada725a6)
 
-![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/89af30fd-ecbc-4798-8324-723cd7304139)
 
-![image](https://github.com/Mena-Rossini/AI_Lab_2023-24/assets/102855266/fd6636fe-9fd1-4ee8-901b-ca38c271f1f4)
+
+![Screenshot 2024-11-11 160658](https://github.com/user-attachments/assets/c69050ad-c5ef-46c8-9410-388b304ca9d6)
+
+
+
+![Screenshot 2024-10-10 135744](https://github.com/user-attachments/assets/12e60eb2-9283-416b-b6d0-010a1e7b96be)
+
 
 
 ### Result:
